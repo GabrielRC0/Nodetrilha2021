@@ -1,0 +1,2 @@
+eslint e o prettier
+iremos trabalhar com padronização do codigo, quando mais de dev participa podemos definir 

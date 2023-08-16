@@ -1,0 +1,38 @@
+S => SRP - SINGLE RESPONSABILITY PRINCIPLE:
+
+O => OCP - OPEN-CLOSED PRINCIPLE
+
+L => LISKOV SUBSTITUTION PRINCIPLE
+
+I => INTERFACE SEGREGATION PRINCIPLE
+
+D => DEPENDENCY INVERSION PRINCIPLE
+
+//ESCRITO POR ROBERT MARTIN - UNCLE BOB
+
+Data de nascimento
+02/09/1998
+Escolaridade
+Superior incompleto
+RG
+1130748799
+CPF
+00415990122
+Nome da Mãe
+Monica Alexandre Ribeiro
+Telefone
+51 99428-4853
+Endereço
+Rua Guaruja 
+Número
+300
+Complemento
+Bloco 24 Apto 204
+Bairro
+São José
+Cidade
+Canoas
+Estado
+Rio Grande do Sul
+CEP
+92420230
